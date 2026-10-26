@@ -1,7 +1,7 @@
 
 # Painel de Anúncios de Venda de Carros
 
-## 🔗 Aplicação online
+## 🔗 Acesso à aplicação
 
 Acesse a aplicação web: https://repositoriogit.onrender.com/
 
